@@ -1,0 +1,23 @@
+body {
+    margin: 3ex;
+}
+
+button {
+    background-color: lightsteelblue;
+    border-radius: 5px;
+    padding: 1ex;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 3ex;
+    position: absolute;
+    left: 0;
+}
+
+td {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    padding: 8px;
+}
